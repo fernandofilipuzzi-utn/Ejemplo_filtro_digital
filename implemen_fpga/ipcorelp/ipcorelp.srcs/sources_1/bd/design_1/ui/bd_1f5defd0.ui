@@ -1,0 +1,85 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port sys_clock -pg 1 -lvl 0 -x -10 -y 540 -defaultsOSRD
+preplace port vaux1_n -pg 1 -lvl 0 -x -10 -y 330 -defaultsOSRD
+preplace port vaux1_p -pg 1 -lvl 0 -x -10 -y 350 -defaultsOSRD
+preplace port ck_io12 -pg 1 -lvl 13 -x 2930 -y 270 -defaultsOSRD
+preplace portBus ck_io -pg 1 -lvl 13 -x 2930 -y 430 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 1 -x 130 -y 60 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 130 -y 540 -defaultsOSRD
+preplace inst xlconstant_2 -pg 1 -lvl 1 -x 130 -y 260 -defaultsOSRD
+preplace inst xlconstant_1 -pg 1 -lvl 1 -x 130 -y 160 -defaultsOSRD
+preplace inst xadc_wiz_0 -pg 1 -lvl 2 -x 410 -y 240 -defaultsOSRD
+preplace inst xlslice_0 -pg 1 -lvl 1 -x 130 -y 440 -defaultsOSRD
+preplace inst mult_gen_0 -pg 1 -lvl 4 -x 900 -y 530 -defaultsOSRD -orient R270
+preplace inst b_0 -pg 1 -lvl 4 -x 900 -y 350 -defaultsOSRD -orient R270
+preplace inst adcfrom_0 -pg 1 -lvl 2 -x 410 -y 470 -defaultsOSRD
+preplace inst mult_gen_1 -pg 1 -lvl 6 -x 1390 -y 520 -defaultsOSRD -orient R270
+preplace inst b_1 -pg 1 -lvl 6 -x 1390 -y 340 -defaultsOSRD -orient R270
+preplace inst dacto_0 -pg 1 -lvl 12 -x 2800 -y 430 -defaultsOSRD
+preplace inst mult_gen_2 -pg 1 -lvl 8 -x 1850 -y 520 -defaultsOSRD -orient R270
+preplace inst mult_gen_3 -pg 1 -lvl 10 -x 2300 -y 520 -defaultsOSRD -orient R270
+preplace inst b_2 -pg 1 -lvl 8 -x 1850 -y 340 -defaultsOSRD -orient R270
+preplace inst b_3 -pg 1 -lvl 10 -x 2300 -y 340 -defaultsOSRD -orient R270
+preplace inst mult_gen_6 -pg 1 -lvl 4 -x 900 -y 700 -defaultsOSRD -orient R90
+preplace inst mult_gen_7 -pg 1 -lvl 6 -x 1390 -y 700 -defaultsOSRD -orient R90
+preplace inst mult_gen_8 -pg 1 -lvl 8 -x 1850 -y 710 -defaultsOSRD
+preplace inst a_1 -pg 1 -lvl 4 -x 900 -y 880 -defaultsOSRD -orient R90
+preplace inst a_2 -pg 1 -lvl 6 -x 1390 -y 880 -defaultsOSRD -orient R90
+preplace inst a_3 -pg 1 -lvl 8 -x 1850 -y 870 -defaultsOSRD -orient R90
+preplace inst zb_1 -pg 1 -lvl 5 -x 1150 -y 440 -defaultsOSRD
+preplace inst zb_2 -pg 1 -lvl 7 -x 1620 -y 440 -defaultsOSRD
+preplace inst zb_3 -pg 1 -lvl 9 -x 2090 -y 440 -defaultsOSRD
+preplace inst sum_0 -pg 1 -lvl 11 -x 2570 -y 640 -defaultsOSRD
+preplace inst za_2 -pg 1 -lvl 5 -x 1150 -y 780 -defaultsOSRD
+preplace inst za_3 -pg 1 -lvl 7 -x 1620 -y 710 -defaultsOSRD
+preplace inst za_1 -pg 1 -lvl 3 -x 680 -y 780 -defaultsOSRD
+preplace inst zb0 -pg 1 -lvl 3 -x 680 -y 450 -defaultsOSRD
+preplace netloc sys_clock_1 1 0 1 NJ 540
+preplace netloc xlconstant_1_dout 1 1 1 230 160n
+preplace netloc xlconstant_0_dout 1 1 1 240 60n
+preplace netloc xadc_wiz_0_do_out 1 0 2 20 340 240
+preplace netloc xlconstant_2_dout 1 1 1 230 240n
+preplace netloc vaux1_n_1 1 0 2 NJ 330 250
+preplace netloc vaux1_p_1 1 0 2 10J 320 N
+preplace netloc xlconstant_3_dout 1 3 1 N 420
+preplace netloc xlconstant_4_dout 1 5 1 N 410
+preplace netloc shift_reg_0_out 1 5 2 N 430N 1500
+preplace netloc shift_reg_1_B 1 7 2 NJ 430N 1960
+preplace netloc xlconstant_5_dout 1 7 1 N 410
+preplace netloc shift_reg_2_B 1 9 1 NJ 430
+preplace netloc xlconstant_6_dout 1 9 1 N 410
+preplace netloc shift_reg_5_B 1 3 2 790 800N N
+preplace netloc xlconstant_9_dout 1 3 1 N 810
+preplace netloc shift_reg_6_B 1 5 2 1260 800N 1500
+preplace netloc xlconstant_10_dout 1 5 1 N 810
+preplace netloc shift_reg_7_B 1 7 1 N 700
+preplace netloc xlconstant_11_dout 1 7 1 1750 720n
+preplace netloc sum_0_B 1 2 10 560 960 N 960 N 960 N 960 N 960 N 960 1970 610 N 610 2400 520 2680
+preplace netloc mult_gen_0_P1 1 4 7 N 610 1270 950 NJ 950 NJ 950 NJ 950 NJ 950 2450
+preplace netloc mult_gen_1_P 1 6 5 N 600 1740 940 NJ 940 NJ 940 2440
+preplace netloc mult_gen_2_P 1 8 3 N 600 2200J 640 2400
+preplace netloc mult_gen_3_P 1 10 1 2410 600n
+preplace netloc mult_gen_6_P 1 4 7 N 620 1280 610 N 610 N 610 1960 620 N 620 N
+preplace netloc mult_gen_7_P 1 6 5 N 620 NJ 620 1950J 630 NJ 630 2420
+preplace netloc mult_gen_8_P 1 8 3 1980 960 NJ 960 2430
+preplace netloc dacto_0_y 1 12 1 N 430
+preplace netloc xlslice_0_Dout 1 1 1 230 440n
+preplace netloc xadc_wiz_0_eoc_out 1 1 12 250 80 550 270 N 270 1010 270 NJ 270 1490 270 NJ 270 1970 270 NJ 270 N 270 N 270 N
+preplace netloc clk_wiz_0_clk_out1 1 1 11 250 400 560 370 800 430N 1020 360 1290 420N 1510 360 1750 420N 1960 360 2200 420N N 420 N
+preplace netloc zb_4_B 1 3 2 NJ 440N 1000
+preplace netloc adcfrom_0_y 1 2 1 N 470
+preplace netloc zb0_fin 1 3 1 790 450n
+preplace netloc zb_1_fin 1 5 1 1270 440n
+preplace netloc zb_2_fin 1 7 1 1740 440n
+preplace netloc zb_3_fin 1 9 1 2200 440n
+preplace netloc za_1_fin 1 3 1 N 790
+preplace netloc za_2_fin 1 5 1 N 790
+preplace netloc za_3_fin 1 7 1 1730 720n
+levelinfo -pg 1 -10 130 410 680 900 1150 1390 1620 1850 2090 2300 2570 2800 2930
+pagesize -pg 1 -db -bbox -sgen -130 0 3050 970
+"
+}
+0

@@ -1,0 +1,7 @@
+//Filtro IIR - Pasa Bajo - bilineal(matlab)
+//Orden: 3
+//Frecuencia de Muestreo: 150000 (Hz)
+assign dx0=64'0x000000000077C7B3;assign dx1=64'0x0000000001675719;assign dx2=64'0x0000000001675719;assign dx3=64'0x000000000077C7B3; 
+			
+assign dy1=64'0x00000002785B8840;assign dy2=64'0xFFFFFFFDEDA83EAA;assign dy3=64'0x00000000963DFB80; 
+			
