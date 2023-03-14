@@ -1,7 +1,7 @@
-% ejemplo: diymore_adc_dac_dma_filtro_int
+% ejemplo de diseño de filtro digital
 % filipuzzi, fernando rafael
-% fecha: 20211209
-% matlab2021b
+% fecha: 20230313
+% matlab2022b
 
 function [] = sim_disenio_filtro_iir_setting()
 
