@@ -1,0 +1,17 @@
+# ignore all logs
+*.log
+build
+*.bak
+*.out
+*.gz
+*.aux
+Debug
+*.map
+*.mk
+makefile
+*.list
+*.elf
+*.blg
+*.bbl
+ipcorelp.cache
+ipcorelp.runs
