@@ -5,7 +5,7 @@
 
 \usepackage[utf8]{inputenc}
 %\UseRawInputEncoding
-\usepackage{blindtext}
+
 \usepackage[spanish]{babel}
 
 \usepackage{ragged2e} %
@@ -13,6 +13,19 @@
 \usepackage{cancel} % cancelar terminos
 
 \usepackage{blindtext}
+
+
+%\usepackage[backend=biber]{biblatex}
+%\usepackage{natbib}
+%\usepackage[maxbibnames=99, sorting=none, backend=bibtex]{biblatex}
+%\addbibresource{referencias.bib}
+%\usepackage{sectionbib}
+%\usepackage{chapterbib}
+\usepackage[sectionbib]{natbib}
+%\usepackage[nottoc,notlot,notlof]{tocbibind}
+%\usepackage{etoolbox}
+%\patchcmd{\thebibliography}{\chapter*}{\section}{}{}
+%\usepackage[sectionbib]{chapterbib}
 
 %\usepackage[pdftex]{graphicx}
 \usepackage{graphicx}
@@ -54,6 +67,8 @@
 \newcommand\tab[1][1cm]{\hspace*{#1}}
 
 \setcounter{secnumdepth}{5}
+
+
 
 \graphicspath{ {./img/},{../design_matlab/output/},{./src_matlab/}  }
 
@@ -115,7 +130,7 @@
 	\rfoot{ \thepage \hspace{1pt} - \pageref{LastPage}}
 	\lfoot{ Filipuzzi, Fernando Rafael }
 	
-	\title{Teoría de los circuitos II}
+	\title{Teoría de los circuitos II - Ampliado}
 	\subtitle{Trabajo final}
 	\author{Filipuzzi, Fernando Rafael	}
 	
@@ -126,10 +141,43 @@
 	
 	\listoffigures\newpage
    
+%    \include{intro}
+    
 	\chapter{Introducción}
 	{
 		\subfile{intro.tex}
 	}
+	
+	\clearpage	
+	
+	\chapter{Representación de las funciones del circuito}
+	{
+		\section{Comentarios sobre la bibliografía}
+   		{
+    		\subfile{representacion_bibliografia.tex}				
+		}
+	}	
+	
+    \clearpage	
+	
+	\chapter{Teoría de cuadripolos}
+	{
+		\section{Comentarios sobre la bibliografía}
+   		{
+    		\subfile{filtros_imagen_bibliografia.tex}				
+		}
+	}	
+	
+	\clearpage
+	
+		
+	\chapter{Filtros por Teoría imagen}
+	{
+		\section{Comentarios sobre la bibliografía}
+   		{
+    		\subfile{filtros_imagen_bibliografia.tex}				
+		}
+	}	
 	
 	\clearpage
    
@@ -167,6 +215,15 @@
    		{
     		\subfile{filtros_funciones_bibliografia.tex}				
 		}
+		
+		\clearpage		
+		
+			
+		%\addcontentsline{toc}{section}{Comentarios sobre la bibliografía}
+%			%\bibliographystyle {plain}
+		%	\bibliographystyle{apalike}
+%			\bibliography{referencias}
+%			\nocite{everitt1961ingenieria}
 	}
 	
 	\clearpage
@@ -203,17 +260,19 @@
 	
 	\clearpage
 	
-%    \chapter{Realización de redes sin perdidas}{
-%    
-%    	\section{Funciones de impedancia y admitancia}	
-%	   {
-%    	}\newpage
-%    
-%		\section{Función de transferencia}	
-%		{
-%	   }\newpage    
- %   
- %   }\newpage
+    \chapter{Realización de redes sin perdidas}{
+    
+    	\section{Funciones de impedancia y admitancia}	
+ 	   {
+    	}\newpage
+    
+		\section{Función de transferencia}	
+		{
+	   }\newpage    
+   
+    }
+    
+    \clearpage
         
 	\chapter{Diseño de Filtros digitales}{
 	
@@ -362,19 +421,32 @@
 	
 	\clearpage			
 	
-%	\chapter{Filtro Activo}
-%	{
-%		
-%		\section{Comentarios sobre la bibliografía}
-%		{
-%			\subfile{filtro_activo}\newpage
-%		}\newpage	
-%	}	
-	
-	\chapter{Bibliografía adicional}
+	\chapter{Filtro Activo}
 	{
-		\subfile{bibliografia_adicional.tex}
+		
+		\section{Comentarios sobre la bibliografía}
+		{
+			\subfile{filtro_activo}
+		}
+		
+		\clearpage			
 	}	
+
+	\clearpage			
 	
-	\clearpage
+%	\include{bibliografia_adicional} 
+%		\chapter{Bibliografía adicional}
+%		{
+%			\subfile{bibliografia_adicional.tex}
+		
+%		
+%		\clearpage
+
+	
+%	\bibliographystyle{apalike}
+%	\bibliography{referencias}
+%	\nocite{everitt1961ingenieria}
+%	\phantomsection
+%	\addcontentsline{toc}{section}{Comentarios sobre la bibliografía}			
+%		}
 \end{document}
