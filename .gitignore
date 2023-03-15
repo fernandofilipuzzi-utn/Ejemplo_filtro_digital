@@ -3,10 +3,12 @@
 build
 *.bak
 *.out
+*.out.ps
 *.gz
 *.aux
 Debug
 *.map
+Debug
 *.mk
 makefile
 *.list
