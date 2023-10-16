@@ -1,0 +1,54 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{6}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Representación de las funciones del circuito}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Comentarios sobre la bibliografía}{7}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Teoría de cuadripolos}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Comentarios sobre la bibliografía}{8}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Filtros por Teoría imagen}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Comentarios sobre la bibliografía}{9}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Filtros por funciones de aproximación}{10}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción}{10}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Filtro de Butteworth}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.4}Filtro de Bessel}{22}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Comentarios sobre la bibliografía}{26}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Transformación de frecuencia}{27}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introducción}{27}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Transformación de paso bajo a paso alto}{28}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Transformación de paso bajo a pasa banda}{30}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Comentarios sobre la bibliografía}{33}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Realización de redes sin perdidas}{34}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introducción}{34}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Funciones de impedancia y admitancia}{34}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Función de transferencia}{35}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Diseño de Filtros digitales}{36}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introducción}{36}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Filtros IIR}{37}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Transformación por Método de Euler}{38}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Transformación invariante al impulso}{40}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Transformación por mapeo bilineal}{43}{subsection.8.2.3}%
+\contentsline {section}{\numberline {8.3}Filtros FIR}{45}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Comentarios sobre la bibliografía}{50}{section.8.4}%
+\contentsline {chapter}{\numberline {9}Realización de filtros Digitales}{51}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Realización}{51}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Comentarios sobre la bibliografía}{53}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Procesamiento digital-construcción de filtros digitales}{54}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Realización}{54}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Comentarios sobre la bibliografía}{57}{section.10.2}%
+\contentsline {chapter}{\numberline {11}Especificaciones de las implementaciones de los filtros realizados}{58}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Especificaciones generales del hardware utilizado}{58}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Especificaciones de los filtros IIR}{64}{section.11.2}%
+\contentsline {subsubsection}{\numberline {11.2.0.1}Filtro de Butterworth (microcontrolador)}{64}{subsubsection.11.2.0.1}%
+\contentsline {subsection}{\numberline {11.2.1}Filtros pasa bajo}{65}{subsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.1.1}Filtro de Butterworth (microcontrolador)}{65}{subsubsection.11.2.1.1}%
+\contentsline {subsubsection}{\numberline {11.2.1.2}Filtro de Chebyshev (microcontrolador)}{67}{subsubsection.11.2.1.2}%
+\contentsline {subsubsection}{\numberline {11.2.1.3}Filtro de Butterworth (FPGA)}{69}{subsubsection.11.2.1.3}%
+\contentsline {subsection}{\numberline {11.2.2}Filtros pasa banda}{71}{subsection.11.2.2}%
+\contentsline {subsubsection}{\numberline {11.2.2.1}Filtro de Butterworth (microcontrolador)}{71}{subsubsection.11.2.2.1}%
+\contentsline {subsection}{\numberline {11.2.3}Filtros pasa alto}{73}{subsection.11.2.3}%
+\contentsline {subsubsection}{\numberline {11.2.3.1}Filtro de Butterworth (microcontrolador)}{73}{subsubsection.11.2.3.1}%
+\contentsline {section}{\numberline {11.3}Especificaciones de los filtros FIR}{75}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Filtro pasa bajo}{75}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}Filtro pasa alto}{76}{subsection.11.3.2}%
+\contentsline {chapter}{\numberline {12}Filtro Activo}{77}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Comentarios sobre la bibliografía}{77}{section.12.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

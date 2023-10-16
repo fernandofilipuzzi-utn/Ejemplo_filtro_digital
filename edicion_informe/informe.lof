@@ -22,57 +22,58 @@
 \contentsline {figure}{\numberline {6.5}{\ignorespaces Relaciones entre las frecuencias de un filtro pasa banda y un filtro pasa bajo normalizado\relax }}{30}{figure.caption.18}%
 \contentsline {figure}{\numberline {6.6}{\ignorespaces Ejemplo 1. Filtro pasa banda de Chebyshev\relax }}{32}{figure.caption.19}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Representación de una red de un puerto\relax }}{35}{figure.caption.20}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Pasos para el diseño de filtros digitales\relax }}{37}{figure.caption.20}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Mapeo del eje $j\omega $, en el plano s, en el circulo unitario, en el plano z\relax }}{37}{figure.caption.21}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Mapeo del semiplano izquierdo del plano s dentro del circulo unitario en el plano z\relax }}{38}{figure.caption.22}%
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Transformación por método de Euler. Mapeo del eje $j\omega $ en el plano z\relax }}{39}{figure.caption.23}%
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Transformación invariante al impulso. Mapeo resultante en el plano z\relax }}{41}{figure.caption.24}%
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Transformación bilineal. Mapeo resultante en el plano z\relax }}{43}{figure.caption.25}%
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Transformación bilineal. Relación entre la frecuencia analógica $\omega $ y la frecuencia digital $\theta $\relax }}{44}{figure.caption.26}%
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Transformación bilineal. Relación entre la frecuencia analógica $\omega $ y la frecuencia digital $\theta $\relax }}{44}{figure.caption.27}%
-\contentsline {figure}{\numberline {8.9}{\ignorespaces Representación gráfica de $H(j\omega )$ y de su desarrollo serie de Fourier en $j\omega $\relax }}{46}{figure.caption.28}%
-\contentsline {figure}{\numberline {8.10}{\ignorespaces Representación gráfica de la respuesta al impulso $h_d(n)$.\relax }}{46}{figure.caption.29}%
-\contentsline {figure}{\numberline {8.11}{\ignorespaces Representación gráfica de $h_d(n)$ y $w(n)$ (trazado en rojo)\relax }}{46}{figure.caption.30}%
-\contentsline {figure}{\numberline {8.12}{\ignorespaces Representación de $h_d(n)$ y de $h(n)$ para $N$ impar.\relax }}{47}{figure.caption.31}%
-\contentsline {figure}{\numberline {8.13}{\ignorespaces Representación de $h_d(n)$ y de $h(n)$ para $N$ par.\relax }}{47}{figure.caption.32}%
-\contentsline {figure}{\numberline {8.14}{\ignorespaces Respuesta en frecuencia.\relax }}{48}{figure.caption.33}%
-\contentsline {figure}{\numberline {8.15}{\ignorespaces Respuesta en frecuencia.\relax }}{49}{figure.caption.34}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Pasos para el diseño de filtros digitales\relax }}{37}{figure.caption.21}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Mapeo del eje $j\omega $, en el plano s, en el circulo unitario, en el plano z\relax }}{37}{figure.caption.22}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Mapeo del semiplano izquierdo del plano s dentro del circulo unitario en el plano z\relax }}{38}{figure.caption.23}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Transformación por método de Euler. Mapeo del eje $j\omega $ en el plano z\relax }}{39}{figure.caption.24}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Transformación invariante al impulso. Mapeo resultante en el plano z\relax }}{41}{figure.caption.25}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Transformación bilineal. Mapeo resultante en el plano z\relax }}{43}{figure.caption.26}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Transformación bilineal. Relación entre la frecuencia analógica $\omega $ y la frecuencia digital $\theta $\relax }}{44}{figure.caption.27}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Transformación bilineal. Relación entre la frecuencia analógica $\omega $ y la frecuencia digital $\theta $\relax }}{44}{figure.caption.28}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Representación gráfica de $H(j\omega )$ y de su desarrollo serie de Fourier en $j\omega $\relax }}{46}{figure.caption.29}%
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Representación gráfica de la respuesta al impulso $h_d(n)$.\relax }}{46}{figure.caption.30}%
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Representación gráfica de $h_d(n)$ y $w(n)$ (trazado en rojo)\relax }}{46}{figure.caption.31}%
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Representación de $h_d(n)$ y de $h(n)$ para $N$ impar.\relax }}{47}{figure.caption.32}%
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Representación de $h_d(n)$ y de $h(n)$ para $N$ par.\relax }}{47}{figure.caption.33}%
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Respuesta en frecuencia.\relax }}{48}{figure.caption.34}%
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Respuesta en frecuencia.\relax }}{49}{figure.caption.35}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Representación en bloques de elementos computacionales básicos\relax }}{51}{figure.caption.35}%
-\contentsline {figure}{\numberline {9.2}{\ignorespaces Representación de la Ec. \ref {eqn:ec:dif} \relax }}{52}{figure.caption.36}%
-\contentsline {figure}{\numberline {9.3}{\ignorespaces Forma directa I y II\relax }}{52}{figure.caption.37}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Representación en bloques de elementos computacionales básicos\relax }}{51}{figure.caption.36}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Representación de la Ec. \ref {eqn:ec:dif} \relax }}{52}{figure.caption.37}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Forma directa I y II\relax }}{52}{figure.caption.38}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Diagrama de bloques, procesamiento digital de señales\relax }}{54}{figure.caption.38}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Representación del algoritmo de un filtro FIR, rutinas en c correspondientes al proceso, asociado al diagrama general de procesamiento digital, \ref {fig:construccion:diagr_diagr_bloques_dsp} \relax }}{55}{figure.caption.39}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Implementación de los bloques de operaciones mediante FPGA\relax }}{56}{figure.caption.42}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Diagrama de bloques, procesamiento digital de señales\relax }}{54}{figure.caption.39}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Representación del algoritmo de un filtro FIR, rutinas en c correspondientes al proceso, asociado al diagrama general de procesamiento digital, \ref {fig:construccion:diagr_diagr_bloques_dsp} \relax }}{55}{figure.caption.40}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Implementación de los bloques de operaciones mediante FPGA\relax }}{56}{figure.caption.43}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {11.1}{\ignorespaces Montaje del sistema embebido con microcontrolador\relax }}{58}{figure.caption.43}%
-\contentsline {figure}{\numberline {11.2}{\ignorespaces Representación en bloques de la arquitectura desarrollada para los filtros digitales por medio de microcontrolador\relax }}{59}{figure.caption.44}%
-\contentsline {figure}{\numberline {11.3}{\ignorespaces Representación del algoritmo de un filtro FIR\relax }}{60}{figure.caption.45}%
-\contentsline {figure}{\numberline {11.4}{\ignorespaces Montaje del sistema embebido con FPGA\relax }}{61}{figure.caption.46}%
-\contentsline {figure}{\numberline {11.5}{\ignorespaces Circuito de entrada analógica unipolar incluido en la placa embebida utilizada\relax }}{61}{figure.caption.47}%
-\contentsline {figure}{\numberline {11.6}{\ignorespaces Circuito R2R sugerido por la empresa que manufactura la placa embebida\relax }}{62}{figure.caption.48}%
-\contentsline {figure}{\numberline {11.7}{\ignorespaces Representación de filtro realizado con FPGA mediante los bloques construidos para tal fin\relax }}{63}{figure.caption.49}%
-\contentsline {figure}{\numberline {11.8}{\ignorespaces Filtro analógico\relax }}{65}{figure.caption.50}%
-\contentsline {figure}{\numberline {11.9}{\ignorespaces Filtro digital\relax }}{65}{figure.caption.51}%
-\contentsline {figure}{\numberline {11.10}{\ignorespaces Filtro analógico\relax }}{66}{figure.caption.52}%
-\contentsline {figure}{\numberline {11.11}{\ignorespaces Filtro digital\relax }}{66}{figure.caption.53}%
-\contentsline {figure}{\numberline {11.12}{\ignorespaces Filtro analógico\relax }}{67}{figure.caption.54}%
-\contentsline {figure}{\numberline {11.13}{\ignorespaces Filtro digital\relax }}{67}{figure.caption.55}%
-\contentsline {figure}{\numberline {11.14}{\ignorespaces Filtro Analógico\relax }}{68}{figure.caption.56}%
-\contentsline {figure}{\numberline {11.15}{\ignorespaces Filtro Digital\relax }}{68}{figure.caption.57}%
-\contentsline {figure}{\numberline {11.16}{\ignorespaces Filtro analógico\relax }}{69}{figure.caption.58}%
-\contentsline {figure}{\numberline {11.17}{\ignorespaces Filtro digital\relax }}{69}{figure.caption.59}%
-\contentsline {figure}{\numberline {11.18}{\ignorespaces Filtro Analógico\relax }}{70}{figure.caption.60}%
-\contentsline {figure}{\numberline {11.19}{\ignorespaces Filtro Digital\relax }}{70}{figure.caption.61}%
-\contentsline {figure}{\numberline {11.20}{\ignorespaces Filtro analógico\relax }}{71}{figure.caption.62}%
-\contentsline {figure}{\numberline {11.21}{\ignorespaces Filtro digital\relax }}{71}{figure.caption.63}%
-\contentsline {figure}{\numberline {11.22}{\ignorespaces Filtro Analógico\relax }}{72}{figure.caption.64}%
-\contentsline {figure}{\numberline {11.23}{\ignorespaces Filtro Digital\relax }}{72}{figure.caption.65}%
-\contentsline {figure}{\numberline {11.24}{\ignorespaces Filtro analógico\relax }}{73}{figure.caption.66}%
-\contentsline {figure}{\numberline {11.25}{\ignorespaces Filtro digital\relax }}{73}{figure.caption.67}%
-\contentsline {figure}{\numberline {11.26}{\ignorespaces Filtro Analógico\relax }}{74}{figure.caption.68}%
-\contentsline {figure}{\numberline {11.27}{\ignorespaces Filtro Digital\relax }}{74}{figure.caption.69}%
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Montaje del sistema embebido con microcontrolador\relax }}{58}{figure.caption.44}%
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Representación en bloques de la arquitectura desarrollada para los filtros digitales por medio de microcontrolador\relax }}{59}{figure.caption.45}%
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Representación del algoritmo de un filtro FIR\relax }}{60}{figure.caption.46}%
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Montaje del sistema embebido con FPGA\relax }}{61}{figure.caption.47}%
+\contentsline {figure}{\numberline {11.5}{\ignorespaces Circuito de entrada analógica unipolar incluido en la placa embebida utilizada\relax }}{61}{figure.caption.48}%
+\contentsline {figure}{\numberline {11.6}{\ignorespaces Circuito R2R sugerido por la empresa que manufactura la placa embebida\relax }}{62}{figure.caption.49}%
+\contentsline {figure}{\numberline {11.7}{\ignorespaces Representación de filtro realizado con FPGA mediante los bloques construidos para tal fin\relax }}{63}{figure.caption.50}%
+\contentsline {figure}{\numberline {11.8}{\ignorespaces Filtro analógico\relax }}{65}{figure.caption.51}%
+\contentsline {figure}{\numberline {11.9}{\ignorespaces Filtro digital\relax }}{65}{figure.caption.52}%
+\contentsline {figure}{\numberline {11.10}{\ignorespaces Filtro analógico\relax }}{66}{figure.caption.53}%
+\contentsline {figure}{\numberline {11.11}{\ignorespaces Filtro digital\relax }}{66}{figure.caption.54}%
+\contentsline {figure}{\numberline {11.12}{\ignorespaces Filtro analógico\relax }}{67}{figure.caption.55}%
+\contentsline {figure}{\numberline {11.13}{\ignorespaces Filtro digital\relax }}{67}{figure.caption.56}%
+\contentsline {figure}{\numberline {11.14}{\ignorespaces Filtro Analógico\relax }}{68}{figure.caption.57}%
+\contentsline {figure}{\numberline {11.15}{\ignorespaces Filtro Digital\relax }}{68}{figure.caption.58}%
+\contentsline {figure}{\numberline {11.16}{\ignorespaces Filtro analógico\relax }}{69}{figure.caption.59}%
+\contentsline {figure}{\numberline {11.17}{\ignorespaces Filtro digital\relax }}{69}{figure.caption.60}%
+\contentsline {figure}{\numberline {11.18}{\ignorespaces Filtro Analógico\relax }}{70}{figure.caption.61}%
+\contentsline {figure}{\numberline {11.19}{\ignorespaces Filtro Digital\relax }}{70}{figure.caption.62}%
+\contentsline {figure}{\numberline {11.20}{\ignorespaces Filtro analógico\relax }}{71}{figure.caption.63}%
+\contentsline {figure}{\numberline {11.21}{\ignorespaces Filtro digital\relax }}{71}{figure.caption.64}%
+\contentsline {figure}{\numberline {11.22}{\ignorespaces Filtro Analógico\relax }}{72}{figure.caption.65}%
+\contentsline {figure}{\numberline {11.23}{\ignorespaces Filtro Digital\relax }}{72}{figure.caption.66}%
+\contentsline {figure}{\numberline {11.24}{\ignorespaces Filtro analógico\relax }}{73}{figure.caption.67}%
+\contentsline {figure}{\numberline {11.25}{\ignorespaces Filtro digital\relax }}{73}{figure.caption.68}%
+\contentsline {figure}{\numberline {11.26}{\ignorespaces Filtro Analógico\relax }}{74}{figure.caption.69}%
+\contentsline {figure}{\numberline {11.27}{\ignorespaces Filtro Digital\relax }}{74}{figure.caption.70}%
 \addvspace {10\p@ }
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

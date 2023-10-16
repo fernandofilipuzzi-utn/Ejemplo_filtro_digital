@@ -17,8 +17,9 @@
 \contentsline {section}{\numberline {6.3}Transformación de paso bajo a pasa banda}{30}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Comentarios sobre la bibliografía}{33}{section.6.4}%
 \contentsline {chapter}{\numberline {7}Realización de redes sin perdidas}{34}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Funciones de impedancia y admitancia}{34}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Función de transferencia}{35}{section.7.2}%
+\contentsline {section}{\numberline {7.1}Introducción}{34}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Funciones de impedancia y admitancia}{34}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Función de transferencia}{35}{section.7.3}%
 \contentsline {chapter}{\numberline {8}Diseño de Filtros digitales}{36}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Introducción}{36}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Filtros IIR}{37}{section.8.2}%
